@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatriculaDeAluno", "Matricu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PesoIdeal", "PesoIdeal\PesoIdeal.csproj", "{EB654382-37E6-44CD-A4C4-92E69FBDAFF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReajusteSalarial", "ReajusteSalarial\ReajusteSalarial.csproj", "{B890E2FD-5DFE-46EB-AD1F-29E05BAB3F4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EB654382-37E6-44CD-A4C4-92E69FBDAFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB654382-37E6-44CD-A4C4-92E69FBDAFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB654382-37E6-44CD-A4C4-92E69FBDAFF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B890E2FD-5DFE-46EB-AD1F-29E05BAB3F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B890E2FD-5DFE-46EB-AD1F-29E05BAB3F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B890E2FD-5DFE-46EB-AD1F-29E05BAB3F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B890E2FD-5DFE-46EB-AD1F-29E05BAB3F4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
